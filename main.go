@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"os"
-	"simpleHTPPReceiver/http_receiver"
+	"simpleHTTPReceiver/http_receiver"
 )
 
 func main() {
